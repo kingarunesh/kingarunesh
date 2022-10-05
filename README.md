@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 
-- 🔭 I’m currently working on [Qazini website](https://peterkimanzi.netlify.app/)
+- 🔭 I’m currently working on [Fantom Blog Web App](https://github.com/kingarunesh/Fantom-Blog)
 
 - 🌱 I’m currently learning **Python,Django**
 
