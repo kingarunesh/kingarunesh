@@ -10,9 +10,7 @@
 
 - 🌱 I’m currently learning **Python,Django**
 
-- 👯 I’m looking to collaborate on **House payment app**
-
-- 👨‍💻 All of my projects are available at [peterkimanzi](https://github.com/kingarunesh/Complete-Python)
+- 👨‍💻 All of my projects are available at [kingarunesh](https://github.com/kingarunesh/Complete-Python)
 
 - 💬 Ask me about ** Python, Flask, Django, SQL **
 
